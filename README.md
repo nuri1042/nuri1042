@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nuri1042
+- 👋 Hi, I’m Kim Nuri
 - 👀 I’m interested in Web Frontend
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me - nuri100993@gmail.com
