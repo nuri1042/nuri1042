@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kim Nuri
 - 👀 I’m interested in Web Frontend
-- 🌱 I’m currently learning <strong>React</strong>
+- 🌱 I’m currently learning <strong>React</strong>, <strong>Next JS</strong>
 - 📝 I currently writing articles on https://www.notion.so/3cee8e7dea3e434f9168ef6d4a46b4b8
 - 📫 How to reach me - nuri100993@gmail.com
 
